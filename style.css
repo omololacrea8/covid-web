@@ -2,10 +2,10 @@
 :root {
     --bg: #fff;
     --b-w: #000;
-    --primary: #feac4f; 
-    --p-text: #2e2e2d;
+    --primary:#4f8cfe; 
+    --p-text: #4e4e4d;
     --bg-div: #f2f2f2;
-    --h4: #bc7524;
+    --h4: #0f639b;
     --w-b: #fff;
 }
 body {
